@@ -1,6 +1,6 @@
 # Katabump Unlimited Time Script
 
-# Actions Secret:
+Actions Secret:
 
 1. KATABUMP_EMAIL	
 
